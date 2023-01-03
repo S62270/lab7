@@ -1,0 +1,44 @@
+com.example.android.devbyteviewer.app-jetified-lifecycle-service-2.4.0-0 C:\Users\Hp\.gradle\caches\transforms-3\052ec95a2525e59ad8edb88236208506\transformed\jetified-lifecycle-service-2.4.0\res
+com.example.android.devbyteviewer.app-core-1.7.0-1 C:\Users\Hp\.gradle\caches\transforms-3\130b6686679d7780900e460bf17ce9f1\transformed\core-1.7.0\res
+com.example.android.devbyteviewer.app-jetified-lifecycle-process-2.4.0-2 C:\Users\Hp\.gradle\caches\transforms-3\13d83a467e7675c492c19a8523d9d2fc\transformed\jetified-lifecycle-process-2.4.0\res
+com.example.android.devbyteviewer.app-jetified-annotation-experimental-1.1.0-3 C:\Users\Hp\.gradle\caches\transforms-3\186edbb6d3a65d7578c95ec7541aef19\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.android.devbyteviewer.app-jetified-viewpager2-1.0.0-4 C:\Users\Hp\.gradle\caches\transforms-3\1b0a7dcaa4f7a6ca4b1c43fa36295b8e\transformed\jetified-viewpager2-1.0.0\res
+com.example.android.devbyteviewer.app-databinding-runtime-7.3.1-5 C:\Users\Hp\.gradle\caches\transforms-3\1c2bdd824364ea1c537751de53656e79\transformed\databinding-runtime-7.3.1\res
+com.example.android.devbyteviewer.app-jetified-savedstate-1.1.0-6 C:\Users\Hp\.gradle\caches\transforms-3\22b175000367a191b6af76ba301e113a\transformed\jetified-savedstate-1.1.0\res
+com.example.android.devbyteviewer.app-drawerlayout-1.1.1-7 C:\Users\Hp\.gradle\caches\transforms-3\397e62a8f41b86f75f0044eadf2c9b3e\transformed\drawerlayout-1.1.1\res
+com.example.android.devbyteviewer.app-navigation-ui-2.0.0-8 C:\Users\Hp\.gradle\caches\transforms-3\39823cb1af2f2e7ea3c4dd54f15e34d3\transformed\navigation-ui-2.0.0\res
+com.example.android.devbyteviewer.app-jetified-startup-runtime-1.0.0-9 C:\Users\Hp\.gradle\caches\transforms-3\429e69cbc97829ca62f2a6863e5842a5\transformed\jetified-startup-runtime-1.0.0\res
+com.example.android.devbyteviewer.app-media-1.0.0-10 C:\Users\Hp\.gradle\caches\transforms-3\4cb39dd8275f2c84245f4202286d5488\transformed\media-1.0.0\res
+com.example.android.devbyteviewer.app-navigation-runtime-2.0.0-11 C:\Users\Hp\.gradle\caches\transforms-3\57fbc31c682fb47f3d80d6ea31e1fab2\transformed\navigation-runtime-2.0.0\res
+com.example.android.devbyteviewer.app-navigation-common-2.0.0-12 C:\Users\Hp\.gradle\caches\transforms-3\58649392555180613f63b0b25a0bab8e\transformed\navigation-common-2.0.0\res
+com.example.android.devbyteviewer.app-jetified-appcompat-resources-1.4.1-13 C:\Users\Hp\.gradle\caches\transforms-3\7109b8109ef7f4f00c7f0f64c594f8f0\transformed\jetified-appcompat-resources-1.4.1\res
+com.example.android.devbyteviewer.app-jetified-lifecycle-viewmodel-ktx-2.4.1-14 C:\Users\Hp\.gradle\caches\transforms-3\78f9462579adcbc62e533fd7e9060f36\transformed\jetified-lifecycle-viewmodel-ktx-2.4.1\res
+com.example.android.devbyteviewer.app-constraintlayout-2.1.3-15 C:\Users\Hp\.gradle\caches\transforms-3\87e4168e657008bf6ed260fd697cf487\transformed\constraintlayout-2.1.3\res
+com.example.android.devbyteviewer.app-sqlite-framework-2.2.0-16 C:\Users\Hp\.gradle\caches\transforms-3\889d32cfff8dc7598ccd769e1d2d9fc4\transformed\sqlite-framework-2.2.0\res
+com.example.android.devbyteviewer.app-navigation-fragment-2.0.0-17 C:\Users\Hp\.gradle\caches\transforms-3\8c5dd4c59c71ffdb8fe782aea8d9b3a5\transformed\navigation-fragment-2.0.0\res
+com.example.android.devbyteviewer.app-jetified-emoji2-1.0.0-18 C:\Users\Hp\.gradle\caches\transforms-3\8cef2edfe1af9390c4faa4641b9c064f\transformed\jetified-emoji2-1.0.0\res
+com.example.android.devbyteviewer.app-coordinatorlayout-1.1.0-19 C:\Users\Hp\.gradle\caches\transforms-3\8fc1ddbe74e083d08ec4210116608bf3\transformed\coordinatorlayout-1.1.0\res
+com.example.android.devbyteviewer.app-databinding-adapters-7.3.1-20 C:\Users\Hp\.gradle\caches\transforms-3\99fa7919c201395ace0f1998f7a099fe\transformed\databinding-adapters-7.3.1\res
+com.example.android.devbyteviewer.app-jetified-emoji2-views-helper-1.0.0-21 C:\Users\Hp\.gradle\caches\transforms-3\aa723743d758679889cdec5baca2e5f0\transformed\jetified-emoji2-views-helper-1.0.0\res
+com.example.android.devbyteviewer.app-room-runtime-2.4.1-22 C:\Users\Hp\.gradle\caches\transforms-3\b6bde64bbe29e4282292186ca2070d41\transformed\room-runtime-2.4.1\res
+com.example.android.devbyteviewer.app-transition-1.2.0-23 C:\Users\Hp\.gradle\caches\transforms-3\b8d9dafd11ba07d1a0da9f0dc8ed37d4\transformed\transition-1.2.0\res
+com.example.android.devbyteviewer.app-cardview-1.0.0-24 C:\Users\Hp\.gradle\caches\transforms-3\ba6cc467d42da386c78e03bd973259ba\transformed\cardview-1.0.0\res
+com.example.android.devbyteviewer.app-lifecycle-livedata-core-2.4.0-25 C:\Users\Hp\.gradle\caches\transforms-3\c1b46dee276576db0e4a4bbc47ea78c3\transformed\lifecycle-livedata-core-2.4.0\res
+com.example.android.devbyteviewer.app-jetified-lifecycle-runtime-ktx-2.4.0-26 C:\Users\Hp\.gradle\caches\transforms-3\ca4a59a05dd81a6b3d3a96edaf9a33f7\transformed\jetified-lifecycle-runtime-ktx-2.4.0\res
+com.example.android.devbyteviewer.app-fragment-1.3.6-27 C:\Users\Hp\.gradle\caches\transforms-3\ce904db83c08baf862c6edabd83125d8\transformed\fragment-1.3.6\res
+com.example.android.devbyteviewer.app-jetified-core-ktx-1.7.0-28 C:\Users\Hp\.gradle\caches\transforms-3\d1904bf51fed1cbbf80a235669b17114\transformed\jetified-core-ktx-1.7.0\res
+com.example.android.devbyteviewer.app-lifecycle-viewmodel-2.4.1-29 C:\Users\Hp\.gradle\caches\transforms-3\d8faa3ec69558e3ddc8c87bf776ac144\transformed\lifecycle-viewmodel-2.4.1\res
+com.example.android.devbyteviewer.app-lifecycle-runtime-2.4.0-30 C:\Users\Hp\.gradle\caches\transforms-3\dd944f1bd34cbce4dd593b08493526cf\transformed\lifecycle-runtime-2.4.0\res
+com.example.android.devbyteviewer.app-sqlite-2.2.0-31 C:\Users\Hp\.gradle\caches\transforms-3\e18236b686c57fd50b742c3e9f7c5d44\transformed\sqlite-2.2.0\res
+com.example.android.devbyteviewer.app-material-1.5.0-32 C:\Users\Hp\.gradle\caches\transforms-3\e2eafb513e6cfbc9148c7506fbf57255\transformed\material-1.5.0\res
+com.example.android.devbyteviewer.app-jetified-glide-4.8.0-33 C:\Users\Hp\.gradle\caches\transforms-3\eaf3b28bb83543fec4f275ce7c86297c\transformed\jetified-glide-4.8.0\res
+com.example.android.devbyteviewer.app-recyclerview-1.1.0-34 C:\Users\Hp\.gradle\caches\transforms-3\f5346006e75129f1c028a4a529b2353c\transformed\recyclerview-1.1.0\res
+com.example.android.devbyteviewer.app-lifecycle-livedata-2.4.0-35 C:\Users\Hp\.gradle\caches\transforms-3\fac8cb866b61d1e29dd1b98a0ae51b45\transformed\lifecycle-livedata-2.4.0\res
+com.example.android.devbyteviewer.app-appcompat-1.4.1-36 C:\Users\Hp\.gradle\caches\transforms-3\fef51dc5c59ca341b7aab94672a1d28c\transformed\appcompat-1.4.1\res
+com.example.android.devbyteviewer.app-resValues-37 D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 4\app\build\generated\res\resValues\debug
+com.example.android.devbyteviewer.app-rs-38 D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 4\app\build\generated\res\rs\debug
+com.example.android.devbyteviewer.app-mergeDebugResources-39 D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 4\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.devbyteviewer.app-mergeDebugResources-40 D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 4\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.devbyteviewer.app-merged_res-41 D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 4\app\build\intermediates\merged_res\debug
+com.example.android.devbyteviewer.app-debug-42 D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 4\app\src\debug\res
+com.example.android.devbyteviewer.app-main-43 D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 4\app\src\main\res
