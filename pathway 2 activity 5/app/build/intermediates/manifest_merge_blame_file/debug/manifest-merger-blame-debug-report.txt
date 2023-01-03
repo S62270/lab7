@@ -1,0 +1,111 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3     Copyright (C) 2020 The Android Open Source Project
+4
+5     Licensed under the Apache License, Version 2.0 (the "License");
+6     you may not use this file except in compliance with the License.
+7     You may obtain a copy of the License at
+8
+9          http://www.apache.org/licenses/LICENSE-2.0
+10
+11     Unless required by applicable law or agreed to in writing, software
+12     distributed under the License is distributed on an "AS IS" BASIS,
+13     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14     See the License for the specific language governing permissions and
+15     limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.wordsapp"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="19"
+23-->D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 5\app\src\main\AndroidManifest.xml
+24        android:targetSdkVersion="33" />
+24-->D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 5\app\src\main\AndroidManifest.xml
+25
+26    <permission
+26-->[androidx.core:core:1.9.0] C:\Users\Hp\.gradle\caches\transforms-3\800a65679f1b8b0ba749880ef2f03885\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+27        android:name="com.example.wordsapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+27-->[androidx.core:core:1.9.0] C:\Users\Hp\.gradle\caches\transforms-3\800a65679f1b8b0ba749880ef2f03885\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+28        android:protectionLevel="signature" />
+28-->[androidx.core:core:1.9.0] C:\Users\Hp\.gradle\caches\transforms-3\800a65679f1b8b0ba749880ef2f03885\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+29
+30    <uses-permission android:name="com.example.wordsapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+30-->[androidx.core:core:1.9.0] C:\Users\Hp\.gradle\caches\transforms-3\800a65679f1b8b0ba749880ef2f03885\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+30-->[androidx.core:core:1.9.0] C:\Users\Hp\.gradle\caches\transforms-3\800a65679f1b8b0ba749880ef2f03885\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+31
+32    <application
+32-->D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 5\app\src\main\AndroidManifest.xml:19:5-34:19
+33        android:allowBackup="true"
+33-->D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 5\app\src\main\AndroidManifest.xml:20:9-35
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.9.0] C:\Users\Hp\.gradle\caches\transforms-3\800a65679f1b8b0ba749880ef2f03885\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+35        android:debuggable="true"
+36        android:icon="@mipmap/ic_launcher"
+36-->D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 5\app\src\main\AndroidManifest.xml:21:9-43
+37        android:label="@string/app_name"
+37-->D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 5\app\src\main\AndroidManifest.xml:22:9-41
+38        android:roundIcon="@mipmap/ic_launcher_round"
+38-->D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 5\app\src\main\AndroidManifest.xml:23:9-54
+39        android:supportsRtl="true"
+39-->D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 5\app\src\main\AndroidManifest.xml:24:9-35
+40        android:testOnly="true"
+41        android:theme="@style/Theme.Words" >
+41-->D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 5\app\src\main\AndroidManifest.xml:25:9-43
+42        <activity
+42-->D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 5\app\src\main\AndroidManifest.xml:26:9-33:20
+43            android:name="com.example.wordsapp.MainActivity"
+43-->D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 5\app\src\main\AndroidManifest.xml:26:19-47
+44            android:exported="true" >
+44-->D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 5\app\src\main\AndroidManifest.xml:27:13-36
+45            <intent-filter>
+45-->D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 5\app\src\main\AndroidManifest.xml:28:13-32:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 5\app\src\main\AndroidManifest.xml:29:17-69
+46-->D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 5\app\src\main\AndroidManifest.xml:29:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 5\app\src\main\AndroidManifest.xml:31:17-77
+48-->D:\studies\sem 3\CSM3505 native programming\S62270_lab7\pathway 2 activity 5\app\src\main\AndroidManifest.xml:31:27-74
+49            </intent-filter>
+50        </activity>
+51
+52        <uses-library
+52-->[androidx.window:window:1.0.0] C:\Users\Hp\.gradle\caches\transforms-3\fa05c0953889dee710767058b36fa7be\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+53            android:name="androidx.window.extensions"
+53-->[androidx.window:window:1.0.0] C:\Users\Hp\.gradle\caches\transforms-3\fa05c0953889dee710767058b36fa7be\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+54            android:required="false" />
+54-->[androidx.window:window:1.0.0] C:\Users\Hp\.gradle\caches\transforms-3\fa05c0953889dee710767058b36fa7be\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+55        <uses-library
+55-->[androidx.window:window:1.0.0] C:\Users\Hp\.gradle\caches\transforms-3\fa05c0953889dee710767058b36fa7be\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+56            android:name="androidx.window.sidecar"
+56-->[androidx.window:window:1.0.0] C:\Users\Hp\.gradle\caches\transforms-3\fa05c0953889dee710767058b36fa7be\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+57            android:required="false" />
+57-->[androidx.window:window:1.0.0] C:\Users\Hp\.gradle\caches\transforms-3\fa05c0953889dee710767058b36fa7be\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+58
+59        <provider
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hp\.gradle\caches\transforms-3\61a6ee84b8fc0386a554d3414197ea1e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+60            android:name="androidx.startup.InitializationProvider"
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hp\.gradle\caches\transforms-3\61a6ee84b8fc0386a554d3414197ea1e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+61            android:authorities="com.example.wordsapp.androidx-startup"
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hp\.gradle\caches\transforms-3\61a6ee84b8fc0386a554d3414197ea1e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+62            android:exported="false" >
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hp\.gradle\caches\transforms-3\61a6ee84b8fc0386a554d3414197ea1e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+63            <meta-data
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hp\.gradle\caches\transforms-3\61a6ee84b8fc0386a554d3414197ea1e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+64                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hp\.gradle\caches\transforms-3\61a6ee84b8fc0386a554d3414197ea1e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+65                android:value="androidx.startup" />
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Hp\.gradle\caches\transforms-3\61a6ee84b8fc0386a554d3414197ea1e\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+66            <meta-data
+66-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hp\.gradle\caches\transforms-3\39082320faaf5407a9f218abb66b2b27\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+67                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+67-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hp\.gradle\caches\transforms-3\39082320faaf5407a9f218abb66b2b27\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+68                android:value="androidx.startup" />
+68-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Hp\.gradle\caches\transforms-3\39082320faaf5407a9f218abb66b2b27\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+69        </provider>
+70    </application>
+71
+72</manifest>
